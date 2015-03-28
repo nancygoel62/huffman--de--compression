@@ -1,4 +1,4 @@
-hii neha this is an aticle about huffman
+hii this is an aticle about huffman
 
 see we will get some trouble in undeerstanding the code which we have choosen
 so i found one another it too long but easy to understand
@@ -7,7 +7,7 @@ according to new
 we dont use huf extension
 we just open a txt for output and then we create our 1 byte combination of huffman code and then insert that in txt as simple only require bineary functions.. now
 
-eg inpitfile == asdfg
+eg inputfile == asdfg
 and a=01,s=10,d=11,f=001,g=1111;random code so in 
 output file we will write=01101100 1111100 only two byte; hence compressed
 
